@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 mangos
 bananas
 
 
+=======
+lemon
+cherrys
+>>>>>>> ba1703edae9b899a82af62a43bea7a8e325e7245
