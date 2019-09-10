@@ -2,4 +2,6 @@ mangos
 bananas
 lemon
 cherrys
+straberrys
+bALAJI
 
